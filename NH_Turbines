@@ -1,0 +1,2945 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089642,
+        "faa_ors": "33-033982",
+        "faa_asn": "2016-WTE-6204-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00782,
+          43.067608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089313,
+        "faa_ors": "33-033981",
+        "faa_asn": "2016-WTE-6205-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.006195,
+          43.064255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089591,
+        "faa_ors": "33-033978",
+        "faa_asn": "2016-WTE-6209-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.019501,
+          43.056614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3088892,
+        "faa_ors": "33-033980",
+        "faa_asn": "2016-WTE-6206-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens Gamesa Renewable Energy",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 79.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 135.9,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.009064,
+          43.061455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089227,
+        "faa_ors": "33-033974",
+        "faa_asn": "2016-WTE-6213-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.023994,
+          43.043133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089348,
+        "faa_ors": "33-033975",
+        "faa_asn": "2016-WTE-6212-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.021332,
+          43.045483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3088711,
+        "faa_ors": "33-033976",
+        "faa_asn": "2016-WTE-6211-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.021606,
+          43.048389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3089327,
+        "faa_ors": "33-033977",
+        "faa_asn": "2016-WTE-6210-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.019981,
+          43.052677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3088616,
+        "faa_ors": "33-033979",
+        "faa_asn": "2016-WTE-6208-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59953,
+        "t_state": "NH",
+        "t_county": "Hillsborough County",
+        "t_fips": 33011,
+        "p_name": "Antrim",
+        "p_year": 2019,
+        "p_tnum": 9,
+        "p_cap": 28.8,
+        "t_manu": "Siemens",
+        "t_model": "SWT-3.2-113",
+        "t_cap": 3200,
+        "t_hh": 92.5,
+        "t_rd": 113,
+        "t_rsa": 10028.75,
+        "t_ttlh": 149,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "6/17/2019",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.016457,
+          43.058723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030687,
+        "faa_ors": "33-022404",
+        "faa_asn": "2009-WTE-3675-OE",
+        "usgs_pr_id": 34117,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.283798,
+          44.74189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037599,
+        "faa_ors": "33-022375",
+        "faa_asn": "2011-WTE-11298-OE",
+        "usgs_pr_id": 34097,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.293396,
+          44.74979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030682,
+        "faa_ors": "33-022410",
+        "faa_asn": "2009-WTE-3652-OE",
+        "usgs_pr_id": 34123,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.316002,
+          44.840591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3038054,
+        "faa_ors": "33-022370",
+        "faa_asn": "2011-WTE-17771-OE",
+        "usgs_pr_id": 34111,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.311798,
+          44.842293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037673,
+        "faa_ors": "33-022366",
+        "faa_asn": "2011-WTE-14816-OE",
+        "usgs_pr_id": 34100,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.315002,
+          44.770992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3038056,
+        "faa_ors": "33-022373",
+        "faa_asn": "2011-WTE-17773-OE",
+        "usgs_pr_id": 34113,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.304802,
+          44.846092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037669,
+        "faa_ors": "33-022371",
+        "faa_asn": "2011-WTE-14812-OE",
+        "usgs_pr_id": 34104,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309799,
+          44.778393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037592,
+        "faa_ors": "33-022376",
+        "faa_asn": "2011-WTE-11116-OE",
+        "usgs_pr_id": 34096,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.288002,
+          44.747089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3038052,
+        "faa_ors": "33-022363",
+        "faa_asn": "2011-WTE-17769-OE",
+        "usgs_pr_id": 34109,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.318901,
+          44.833893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037598,
+        "faa_ors": "33-022374",
+        "faa_asn": "2011-WTE-11297-OE",
+        "usgs_pr_id": 34098,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.298698,
+          44.753193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030688,
+        "faa_ors": "33-022402",
+        "faa_asn": "2009-WTE-3676-OE",
+        "usgs_pr_id": 34115,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.278603,
+          44.738293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030690,
+        "faa_ors": "33-022405",
+        "faa_asn": "2009-WTE-3679-OE",
+        "usgs_pr_id": 34118,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.281601,
+          44.729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030683,
+        "faa_ors": "33-022409",
+        "faa_asn": "2009-WTE-3653-OE",
+        "usgs_pr_id": 34122,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.317299,
+          44.83849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030684,
+        "faa_ors": "33-022408",
+        "faa_asn": "2009-WTE-3657-OE",
+        "usgs_pr_id": 34121,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.314598,
+          44.79789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037944,
+        "faa_ors": "33-022357",
+        "faa_asn": "2011-WTE-17609-OE",
+        "usgs_pr_id": 34107,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.320999,
+          44.79269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037601,
+        "faa_ors": "33-022379",
+        "faa_asn": "2011-WTE-11300-OE",
+        "usgs_pr_id": 34093,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.280396,
+          44.72229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3038053,
+        "faa_ors": "33-022361",
+        "faa_asn": "2011-WTE-17770-OE",
+        "usgs_pr_id": 34110,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.317902,
+          44.835793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037941,
+        "faa_ors": "33-022362",
+        "faa_asn": "2011-WTE-17534-OE",
+        "usgs_pr_id": 34072,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.316696,
+          44.79599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037672,
+        "faa_ors": "33-022365",
+        "faa_asn": "2011-WTE-14815-OE",
+        "usgs_pr_id": 34101,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3153,
+          44.77269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030689,
+        "faa_ors": "33-022406",
+        "faa_asn": "2009-WTE-3677-OE",
+        "usgs_pr_id": 34119,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.278198,
+          44.735191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037548,
+        "faa_ors": "33-022378",
+        "faa_asn": "2011-WTE-11044-OE",
+        "usgs_pr_id": 34095,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2808,
+          44.732792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037943,
+        "faa_ors": "33-022360",
+        "faa_asn": "2011-WTE-17608-OE",
+        "usgs_pr_id": 34114,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.318703,
+          44.794292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037801,
+        "faa_ors": "33-022359",
+        "faa_asn": "2011-WTE-17276-OE",
+        "usgs_pr_id": 34105,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.319298,
+          44.787689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037674,
+        "faa_ors": "33-022364",
+        "faa_asn": "2011-WTE-14817-OE",
+        "usgs_pr_id": 34099,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.315399,
+          44.769192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037802,
+        "faa_ors": "33-022356",
+        "faa_asn": "2011-WTE-17277-OE",
+        "usgs_pr_id": 34071,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.321297,
+          44.785789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037670,
+        "faa_ors": "33-022369",
+        "faa_asn": "2011-WTE-14813-OE",
+        "usgs_pr_id": 34103,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.312897,
+          44.776192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037671,
+        "faa_ors": "33-022367",
+        "faa_asn": "2011-WTE-14814-OE",
+        "usgs_pr_id": 34102,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.314499,
+          44.774391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030686,
+        "faa_ors": "33-022403",
+        "faa_asn": "2009-WTE-3674-OE",
+        "usgs_pr_id": 34116,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.283401,
+          44.744289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037600,
+        "faa_ors": "33-022377",
+        "faa_asn": "2011-WTE-11299-OE",
+        "usgs_pr_id": 34094,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.284096,
+          44.726192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037800,
+        "faa_ors": "33-022358",
+        "faa_asn": "2011-WTE-17275-OE",
+        "usgs_pr_id": 34106,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.320198,
+          44.790291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3030685,
+        "faa_ors": "33-022407",
+        "faa_asn": "2009-WTE-3670-OE",
+        "usgs_pr_id": 34120,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.305199,
+          44.75539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3037904,
+        "faa_ors": "33-022368",
+        "faa_asn": "2011-WTE-17461-OE",
+        "usgs_pr_id": 34108,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.313698,
+          44.801189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3038055,
+        "faa_ors": "33-022372",
+        "faa_asn": "2011-WTE-17772-OE",
+        "usgs_pr_id": 34112,
+        "eia_id": 58004,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Granite Reliable Power",
+        "p_year": 2012,
+        "p_tnum": 33,
+        "p_cap": 99,
+        "t_manu": "Vestas",
+        "t_model": "V90-3.0",
+        "t_cap": 3000,
+        "t_hh": 80,
+        "t_rd": 90,
+        "t_rsa": 6361.73,
+        "t_ttlh": 125,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.308601,
+          44.844791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034641,
+        "faa_ors": "33-022401",
+        "faa_asn": "2010-WTE-2087-OE",
+        "usgs_pr_id": 34081,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.786301,
+          43.756191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034631,
+        "faa_ors": "33-022393",
+        "faa_asn": "2010-WTE-2076-OE",
+        "usgs_pr_id": 34073,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.793701,
+          43.737091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034637,
+        "faa_ors": "33-022394",
+        "faa_asn": "2010-WTE-2082-OE",
+        "usgs_pr_id": 34075,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.792999,
+          43.741791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034636,
+        "faa_ors": "33-022389",
+        "faa_asn": "2010-WTE-2081-OE",
+        "usgs_pr_id": 34089,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.820198,
+          43.780689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034632,
+        "faa_ors": "33-022382",
+        "faa_asn": "2010-WTE-2077-OE",
+        "usgs_pr_id": 34087,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.829002,
+          43.774891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034627,
+        "faa_ors": "33-022400",
+        "faa_asn": "2010-WTE-2072-OE",
+        "usgs_pr_id": 34080,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7883,
+          43.754292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034626,
+        "faa_ors": "33-022416",
+        "faa_asn": "2010-WTE-2071-OE",
+        "usgs_pr_id": 34067,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.786201,
+          43.76289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034634,
+        "faa_ors": "33-022385",
+        "faa_asn": "2010-WTE-2079-OE",
+        "usgs_pr_id": 34083,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.823196,
+          43.764591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034640,
+        "faa_ors": "33-022415",
+        "faa_asn": "2010-WTE-2086-OE",
+        "usgs_pr_id": 34066,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.785797,
+          43.758392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034628,
+        "faa_ors": "33-022396",
+        "faa_asn": "2010-WTE-2073-OE",
+        "usgs_pr_id": 34077,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.791298,
+          43.74609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034635,
+        "faa_ors": "33-022387",
+        "faa_asn": "2010-WTE-2080-OE",
+        "usgs_pr_id": 34082,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.822998,
+          43.762192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034646,
+        "faa_ors": "33-022391",
+        "faa_asn": "2010-WTE-2093-OE",
+        "usgs_pr_id": 34086,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.816002,
+          43.769093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034643,
+        "faa_ors": "33-022398",
+        "faa_asn": "2010-WTE-2089-OE",
+        "usgs_pr_id": 34078,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.789902,
+          43.74839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3042481,
+        "faa_ors": "33-022414",
+        "faa_asn": "2012-WTE-4660-OE",
+        "usgs_pr_id": 34068,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.785698,
+          43.76049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034638,
+        "faa_ors": "33-022397",
+        "faa_asn": "2010-WTE-2083-OE",
+        "usgs_pr_id": 34076,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.791199,
+          43.74379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034633,
+        "faa_ors": "33-022392",
+        "faa_asn": "2010-WTE-2078-OE",
+        "usgs_pr_id": 34069,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.812897,
+          43.769993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034639,
+        "faa_ors": "33-022395",
+        "faa_asn": "2010-WTE-2084-OE",
+        "usgs_pr_id": 34074,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.792702,
+          43.739292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034630,
+        "faa_ors": "33-022381",
+        "faa_asn": "2010-WTE-2075-OE",
+        "usgs_pr_id": 34090,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.830696,
+          43.780891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034642,
+        "faa_ors": "33-022399",
+        "faa_asn": "2010-WTE-2088-OE",
+        "usgs_pr_id": 34079,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.789597,
+          43.751991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034629,
+        "faa_ors": "33-022380",
+        "faa_asn": "2010-WTE-2074-OE",
+        "usgs_pr_id": 34088,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8339,
+          43.78059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034647,
+        "faa_ors": "33-022388",
+        "faa_asn": "2010-WTE-2094-OE",
+        "usgs_pr_id": 34084,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.821098,
+          43.766392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034648,
+        "faa_ors": "33-022390",
+        "faa_asn": "2010-WTE-2095-OE",
+        "usgs_pr_id": 34085,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.819,
+          43.768192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034644,
+        "faa_ors": "33-022383",
+        "faa_asn": "2010-WTE-2090-OE",
+        "usgs_pr_id": 34092,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.826996,
+          43.781292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3034645,
+        "faa_ors": "33-022384",
+        "faa_asn": "2010-WTE-2091-OE",
+        "usgs_pr_id": 34091,
+        "eia_id": 58141,
+        "t_state": "NH",
+        "t_county": "Grafton County",
+        "t_fips": 33009,
+        "p_name": "Groton",
+        "p_year": 2012,
+        "p_tnum": 24,
+        "p_cap": 48,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "1/1/2012",
+        "t_img_srce": "NAIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8237,
+          43.78109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3053249,
+        "faa_ors": "33-023095",
+        "faa_asn": "2015-WTE-6183-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59070,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Jericho Mountain",
+        "p_year": 2015,
+        "p_tnum": 5,
+        "p_cap": 14.25,
+        "t_manu": "GE Wind",
+        "t_model": "GE2.85-103",
+        "t_cap": 2850,
+        "t_hh": 85,
+        "t_rd": 103,
+        "t_rsa": 8332.29,
+        "t_ttlh": 136.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "9/15/2016",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.225662,
+          44.468952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3053251,
+        "faa_ors": "33-023097",
+        "faa_asn": "2015-WTE-6185-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59070,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Jericho Mountain",
+        "p_year": 2015,
+        "p_tnum": 5,
+        "p_cap": 14.25,
+        "t_manu": "GE Wind",
+        "t_model": "GE2.85-103",
+        "t_cap": 2850,
+        "t_hh": 85,
+        "t_rd": 103,
+        "t_rsa": 8332.29,
+        "t_ttlh": 136.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "9/15/2016",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.223137,
+          44.469822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3050084,
+        "faa_ors": "33-023099",
+        "faa_asn": "2014-WTE-728-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59070,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Jericho Mountain",
+        "p_year": 2015,
+        "p_tnum": 5,
+        "p_cap": 14.25,
+        "t_manu": "GE Wind",
+        "t_model": "GE2.85-103",
+        "t_cap": 2850,
+        "t_hh": 85,
+        "t_rd": 103,
+        "t_rsa": 8332.29,
+        "t_ttlh": 136.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "9/15/2016",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.220718,
+          44.47118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3053252,
+        "faa_ors": "33-023098",
+        "faa_asn": "2015-WTE-6186-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59070,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Jericho Mountain",
+        "p_year": 2015,
+        "p_tnum": 5,
+        "p_cap": 14.25,
+        "t_manu": "GE Wind",
+        "t_model": "GE2.85-103",
+        "t_cap": 2850,
+        "t_hh": 85,
+        "t_rd": 103,
+        "t_rsa": 8332.29,
+        "t_ttlh": 136.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "9/15/2016",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2192,
+          44.46629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3053250,
+        "faa_ors": "33-023096",
+        "faa_asn": "2015-WTE-6184-OE",
+        "usgs_pr_id": "",
+        "eia_id": 59070,
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Jericho Mountain",
+        "p_year": 2015,
+        "p_tnum": 5,
+        "p_cap": 14.25,
+        "t_manu": "GE Wind",
+        "t_model": "GE2.85-103",
+        "t_cap": 2850,
+        "t_hh": 85,
+        "t_rd": 103,
+        "t_rsa": 8332.29,
+        "t_ttlh": 136.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "9/15/2016",
+        "t_img_srce": "Digital Globe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.225296,
+          44.466702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022723,
+        "faa_ors": "33-020110",
+        "faa_asn": "2007-ANE-1616-OE",
+        "usgs_pr_id": 34059,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.149101,
+          43.230289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022717,
+        "faa_ors": "33-020113",
+        "faa_asn": "2007-ANE-1609-OE",
+        "usgs_pr_id": 34061,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.143196,
+          43.235592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3028353,
+        "faa_ors": "33-022352",
+        "faa_asn": "2008-WTE-946-OE",
+        "usgs_pr_id": 34064,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.138802,
+          43.245689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022720,
+        "faa_ors": "33-020112",
+        "faa_asn": "2007-ANE-1612-OE",
+        "usgs_pr_id": 34055,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.155701,
+          43.225189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022718,
+        "faa_ors": "33-020103",
+        "faa_asn": "2007-ANE-1610-OE",
+        "usgs_pr_id": 34060,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.145401,
+          43.23299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022715,
+        "faa_ors": "33-020114",
+        "faa_asn": "2007-ANE-1605-OE",
+        "usgs_pr_id": 34065,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.138496,
+          43.248791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022716,
+        "faa_ors": "33-020104",
+        "faa_asn": "2007-ANE-1608-OE",
+        "usgs_pr_id": 34062,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.141296,
+          43.237892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3028355,
+        "faa_ors": "33-000302",
+        "faa_asn": "2008-WTE-948-OE",
+        "usgs_pr_id": 34058,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.138397,
+          43.22979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022721,
+        "faa_ors": "33-020111",
+        "faa_asn": "2007-ANE-1613-OE",
+        "usgs_pr_id": 34054,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.159897,
+          43.222389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3028354,
+        "faa_ors": "33-022351",
+        "faa_asn": "2008-WTE-947-OE",
+        "usgs_pr_id": 34063,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.139496,
+          43.241989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022722,
+        "faa_ors": "33-020101",
+        "faa_asn": "2007-ANE-1615-OE",
+        "usgs_pr_id": 34056,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.139702,
+          43.22739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3022719,
+        "faa_ors": "33-020102",
+        "faa_asn": "2007-ANE-1611-OE",
+        "usgs_pr_id": 34057,
+        "eia_id": 56399,
+        "t_state": "NH",
+        "t_county": "Sullivan County",
+        "t_fips": 33019,
+        "p_name": "Lempster",
+        "p_year": 2008,
+        "p_tnum": 12,
+        "p_cap": 24,
+        "t_manu": "Gamesa",
+        "t_model": "G87-2.0",
+        "t_cap": 2000,
+        "t_hh": 78,
+        "t_rd": 87,
+        "t_rsa": 5944.68,
+        "t_ttlh": 121.6,
+        "t_conf_atr": 3,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1549,
+          43.227989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case_id": 3004457,
+        "faa_ors": "",
+        "faa_asn": "",
+        "usgs_pr_id": 34070,
+        "eia_id": "",
+        "t_state": "NH",
+        "t_county": "Coos County",
+        "t_fips": 33007,
+        "p_name": "Mountain View Grand",
+        "p_year": 2009,
+        "p_tnum": 1,
+        "p_cap": 0.1,
+        "t_manu": "Northern Power Systems",
+        "t_model": "NW100",
+        "t_cap": 100,
+        "t_hh": 37,
+        "t_rd": 21,
+        "t_rsa": 346.36,
+        "t_ttlh": 47.5,
+        "t_conf_atr": 2,
+        "t_conf_loc": 3,
+        "t_img_date": "",
+        "t_img_srce": "Bing Maps Aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.590302,
+          44.398792
+        ]
+      }
+    }
+  ]
+}
